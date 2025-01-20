@@ -1,0 +1,22 @@
+{
+  "name": "recursion_exercises",
+  "version": "1.0.0",
+  "description": "recursion exercises",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dalbiter/52.6-Recursion-.git"
+  },
+  "author": "dan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dalbiter/52.6-Recursion-/issues"
+  },
+  "homepage": "https://github.com/dalbiter/52.6-Recursion-#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
